@@ -1,4 +1,4 @@
-## 💫 About Me:
+## Hi, I'm Zinki!:
 👨‍🎓 Studied at [KBTC University](https://www.kbtc.edu.mm/)</br><br>👨‍💻 I’m currently working as a Backend Developer
 
 
